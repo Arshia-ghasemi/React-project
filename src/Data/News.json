@@ -1,0 +1,43 @@
+[
+  {
+    "img": "../../../public/images/News1.jpg",
+    "date": "05 July 2022",
+    "by": "by Kevin Martin",
+    "comment": "19 Comment",
+    "title": "Bringing Food\nProduction Back To\nCities"
+  },
+  {
+    "img": "../../../public/images/News2.jpg",
+    "date": "21 April 2022",
+    "by": "by Kevin Martin",
+    "comment": "21 Comment",
+    "title": "Bringing Food\nProduction Back To\nCities"
+  },
+  {
+    "img": "../../../public/images/News3.jpg",
+    "date": "14 June 2022",
+    "by": "by Kevin Martin",
+    "comment": "11 Comment",
+    "title": "Bringing Food\nProduction Back To\nCities"
+  },
+  {
+    "img": "../../../public/images/News4.jpg",
+    "date": "05 July 2022",
+    "by": "by Kevin Martin",
+    "comment": "21 Comment",
+    "title": "Bringing Food\nProduction Back To\nCities"
+  },
+  {
+    "img": "../../../public/images/News5.jpg",
+    "date": "05 July 2022",
+    "by": "by Kevin Martin",
+    "comment": "41 Comment",
+    "title": "Bringing Food\nProduction Back To\nCities"
+  },{
+  "img": "../../../public/images/News6.jpg",
+  "date": "05 July 2022",
+  "by": "by Kevin Martin",
+  "comment": "58 Comment",
+  "title": "Bringing Food\nProduction Back To\nCities"
+}
+]
