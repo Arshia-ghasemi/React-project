@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lettuce",
+    "price": "$30.00",
+    "img": "../.././images/lettuce.jpg"
+  },
+  {
+    "name": "Onion",
+    "price": "$20.00",
+    "img": "../.././images/onion.jpg"
+  },
+  {
+    "name": "Tomato",
+    "price": "$50.00",
+    "img": "../.././images/tomato2.jpg"
+  },
+  {
+    "name": "Banana",
+    "price": "$20.00",
+    "img": "../.././images/banana.jpg"
+  }
+]
