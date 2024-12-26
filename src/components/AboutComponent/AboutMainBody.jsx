@@ -2,7 +2,7 @@ export default function AboutMainBody() {
     return <>
         <section
             className="px-6 mb-[120px] grid grid-cols-1 justify-items-center lg:grid-cols-2 lg:px-52 lg:h-[500px] w-[100%] ">
-            <img className="h-full" src="./../../../public/images/aboutMainBanner.jpg" alt=""/>
+            <img className="h-full" src="./../../.././images/aboutMainBanner.jpg" alt=""/>
             <div className="grid grid-cols-1 gap-4 h-[100%]">
                 <h3 className="newfont text-yellow-300 mt-6 lg:mt-0">Get to Know Us</h3>
                 <h2 className="leading-tight text-5xl font-bold">The Best Agriculture
@@ -81,15 +81,15 @@ export default function AboutMainBody() {
             </div>
             <div className='xs:grid grid-cols-1 gap-6 lg:flex items-center justify-center px-4 '>
                 <div className="flex items-center justify-center mb-6 px-4 lg:mb-0">
-                    <img src="../../../public/images/Cus1.jpg" width={140} height={184}
+                    <img src="../../.././images/Cus1.jpg" width={140} height={184}
                          className="me-[-30px] rounded-lg z-10 cursor-pointer" alt=""/>
-                    <img src="../../../public/images/div.contentwrap.png"
+                    <img src="../../.././images/div.contentwrap.png"
                          className="h-[220px] rounded-l-lg cursor-pointer" alt=""/>
                 </div>
                 <div className="flex items-center justify-center px-4">
-                    <img src="../../../public/images/Cus2.jpg" width={140} height={184}
+                    <img src="../../.././images/Cus2.jpg" width={140} height={184}
                          className="me-[-30px] rounded-lg z-10 cursor-pointer" alt=""/>
-                    <img src="../../../public/images/div.contentwrap2.png"
+                    <img src="../../.././images/div.contentwrap2.png"
                          className="h-[220px] w-[350px] cursor-pointer" alt=""/>
                 </div>
             </div>

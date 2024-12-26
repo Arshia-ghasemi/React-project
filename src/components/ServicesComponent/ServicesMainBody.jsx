@@ -22,7 +22,7 @@ export default function ServicesMainBody(){
             </div>
             <div className="px-4">
                 <div>
-                    <img src="../../../public/images/Tractor.jpg" alt=""/>
+                    <img src="../../.././images/Tractor.jpg" alt=""/>
                     <h2 className="leading-tight text-5xl font-bold mt-3 mb-6">Agriculture Products</h2>
                     <p className="gray mb-10">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro
                         est qui dolorem ipsum quia
@@ -42,14 +42,14 @@ export default function ServicesMainBody(){
                 </div>
                 <div className="grid gap-6 mt-10 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
                     <div>
-                        <img src="../../../public/images/benefit1.jpg" alt=""/>
+                        <img src="../../.././images/benefit1.jpg" alt=""/>
                         <h5 className="leading-tight text-3xl font-bold mt-4 mb-2">Our Benefits</h5>
                         <p className="gray">It has survived not only five centuries em simply
                             dummy text. Duis aute irure dolor in eprehenderit
                             in voluptate velit esse cillum.</p>
                     </div>
                     <div>
-                        <img src="../../../public/images/benefit2.jpg" alt=""/>
+                        <img src="../../.././images/benefit2.jpg" alt=""/>
                         <ul className="flex-col gap-2 mt-6 font-semibold ">
                             <li className="w-[300px]"><a className="w-fit" href="">Nsectetur cing elit.</a></li>
                             <li className="w-[300px]"><a className="w-fit" href="">Suspe ndisse suscipit sagittis leo.</a></li>
